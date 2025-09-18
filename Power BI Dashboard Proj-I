@@ -1,0 +1,22 @@
+Sales Dataset for Power BI Dashboard
+
+## Description
+This repository contains a **large-scale sales dataset** designed for creating **Power BI dashboards** and performing data analysis.  
+The dataset includes detailed records of sales, purchases, and customer reviews, making it suitable for **data visualization, reporting, and testing dashboard performance** on large datasets.
+
+
+## Dataset Details
+- **Columns Included:** OrderID, CustomerID, ProductID, Quantity, Price, Total, OrderDate, Review, and other relevant details  
+- **Size:** Large dataset to simulate real-world sales and purchase scenarios  
+- **Purpose:**  
+  - Build Power BI dashboards  
+  - Perform trend analysis and KPI calculations  
+  - Test performance on large datasets  
+
+
+
+## Features
+- Clean and structured CSV data ready for Power BI  
+- Supports creating slicers, charts, and key metrics in dashboards  
+- Can be used for learning data analysis and visualization  
+
