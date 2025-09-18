@@ -1,0 +1,14 @@
+Project-3: Netflix Stock Analysis
+
+## Description
+This project analyzes **Netflix stock performance** using Python and historical market data.  
+The main goal is to explore stock trends, understand patterns in price movements, and identify relationships between different stock metrics.  
+
+Key analysis steps include:  
+- Cleaning and preprocessing historical Netflix stock data  
+- Performing Exploratory Data Analysis (EDA) to uncover trends and patterns  
+- Visualizing stock prices, daily returns, and trading volumes using **Matplotlib** ,**Plotly** , and **Seaborn**  
+- Generating a **correlation heatmap** to understand relationships between key metrics such as Open, Close, High, Low, and Volume  
+- Calculating moving averages and other financial indicators to identify trends  
+
+This project demonstrates skills in **data analysis, visualization, and financial insights**, making it useful for finance enthusiasts, investors, and data science learners.
