@@ -1,0 +1,13 @@
+# Project-2: IPL 2022 Analysis
+
+## Description
+This project performs a detailed analysis of the **Indian Premier League (IPL) 2022** season using Python.  
+It focuses on exploring match data to uncover meaningful insights about team performances, player statistics, and overall trends throughout the season.  
+
+The analysis includes:
+- Cleaning and preprocessing raw match data
+- Computing key performance metrics for teams and players
+- Visualizing trends using graphs and charts
+- Providing actionable insights for understanding match outcomes and player impact
+
+This project demonstrates skills in **data analysis, visualization, and reporting**, making it a useful reference for sports analytics enthusiasts and data science learners.
