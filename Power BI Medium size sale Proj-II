@@ -1,0 +1,25 @@
+# 📊 Medium sized Sales Power BI Dashboard
+
+## 📝 Description
+This repository contains a **medium-sized sales dataset** designed for creating **Power BI dashboards** and performing data analysis.  
+It includes detailed records of **sales, purchases, and customer reviews**, making it ideal for learning, testing, and practicing **data visualization and reporting**.
+
+---
+
+## 📂 Dataset Details
+- **Columns Included:** `OrderID`, `CustomerID`, `ProductID`, `Quantity`, `Price`, `Total`, `OrderDate`, `Review`, and other relevant fields  
+- **Size:** Medium dataset for a balanced learning and analysis experience  
+- **Purpose:**  
+  - Build interactive Power BI dashboards  
+  - Analyze sales trends and key performance metrics  
+  - Test slicers, charts, and KPIs in Power BI  
+
+---
+
+## ⚡ Features
+- Clean and structured CSV data ready for Power BI  
+- Supports creation of charts, KPIs, and interactive dashboards  
+- Ideal for **learning data analysis** on a manageable dataset  
+
+---
+
